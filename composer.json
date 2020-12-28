@@ -1,0 +1,16 @@
+{
+    "name": "pc-lib/segment",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jimmy",
+            "email": "web3d@live.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pc\\lib\\": "src/"
+        }
+    }
+}
